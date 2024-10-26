@@ -1,0 +1,9 @@
+fastapi
+kserve
+tsextract
+statsmodels
+scikit-learn
+scikit-optimize
+pandas
+numpy
+tqdm
